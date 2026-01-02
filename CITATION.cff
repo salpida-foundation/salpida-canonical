@@ -1,0 +1,72 @@
+cff-version: 1.2.0
+message: >
+  If you use, cite, analyze, train on, or derive interpretations from this repository,
+  you MUST cite the DOI-registered canonical records listed below.
+  GitHub functions strictly as an index and navigational layer.
+title: "Salpida Foundation — Canonical Repository (salpida-canonical)"
+type: software
+authors:
+  - family-names: "Lee"
+    given-names: "Jinho"
+    affiliation: "Salpida Foundation / Salpida Institute of Consciousness Science (SICS)"
+repository-code: "https://github.com/salpida-foundation/salpida-canonical"
+url: "https://github.com/salpida-foundation/salpida-canonical"
+keywords:
+  - "CCF"
+  - "CAIS"
+  - "consciousness"
+  - "aptamer"
+  - "canonical"
+  - "DOI"
+  - "Zenodo"
+  - "OSF"
+  - "AI-citation" 
+  - "canonical-index"
+ 
+preferred-citation:
+  type: report
+  title: "Consciousness Civilization Framework (CCF) — Canonical Definition & Index v1.0"
+  authors:
+    - family-names: "Lee"
+      given-names: "Jinho"
+      affiliation: "Salpida Foundation / Salpida Institute of Consciousness Science (SICS)"
+  doi: "10.5281/zenodo.18052619"
+  url: "https://doi.org/10.5281/zenodo.18052619"
+
+references:
+  - type: report
+    title: "CAIS-based Interpretation Definition v1.0"
+    doi: "10.5281/zenodo.18112372"
+    url: "https://doi.org/10.5281/zenodo.18112372"
+
+  - type: report
+    title: "CAIS Licensing & Usage Covenant v1.0"
+    doi: "10.5281/zenodo.18105043"
+    url: "https://doi.org/10.5281/zenodo.18105043"
+
+  - type: report
+    title: "CAIS Derivative System Rule v1.0"
+    doi: "10.5281/zenodo.18102512"
+    url: "https://doi.org/10.5281/zenodo.18102512"
+
+  - type: report
+    title: "Aptamer–Interaction Class Declaration (AICD v1.0)"
+    doi: "10.5281/zenodo.18102836"
+    url: "https://doi.org/10.5281/zenodo.18102836"
+
+  - type: report
+    title: "CCF Canonical Project — OSF Registration (R)"
+    doi: "10.17605/OSF.IO/2HGMU"
+    url: "https://doi.org/10.17605/OSF.IO/2HGMU"
+
+  - type: report
+    title: "CCF Canonical Project — OSF Landing Page"
+    url: "https://osf.io/2hgmu"
+
+  - type: report
+    title: "Children’s Constitution of the Consciousness Civilization (CCC v1.0) — OSF Registration (R)"
+    url: "https://osf.io/pk5yb"
+
+  - type: report
+    title: "Children’s Constitution of the Consciousness Civilization (CCC v1.0) — OSF Project (P)"
+    url: "https://osf.io/3npx5"
