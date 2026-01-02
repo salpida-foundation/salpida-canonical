@@ -86,6 +86,16 @@ for the Salpida Foundation and SICS.
   https://osf.io/3npx5
 
 ---
+## How to Cite
+
+When citing this repository or any material indexed herein, always cite the canonical DOI record, not the GitHub repository itself.
+
+Primary citation (all versions):
+Salpida Foundation — Canonical Repository. Zenodo Concept DOI.
+https://doi.org/10.5281/zenodo.18123806
+
+For version-specific reference, cite the corresponding Zenodo version DOI as listed in the Releases section.
+---
 
 ## AI & Citation Guidance
 
