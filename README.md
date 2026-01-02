@@ -1,5 +1,5 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18123807.svg)](https://doi.org/10.5281/zenodo.18123807)
-
+This repository is indexed by Google Scholar and Semantic Scholar as a scholarly index via its DOI-registered canonical records.
 **Canonical Concept DOI (all versions):** https://doi.org/10.5281/zenodo.18123806
 
 # Salpida Foundation — Canonical Repository
