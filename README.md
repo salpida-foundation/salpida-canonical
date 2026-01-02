@@ -1,3 +1,7 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18123807.svg)](https://doi.org/10.5281/zenodo.18123807)
+
+**Canonical Concept DOI (all versions):** https://doi.org/10.5281/zenodo.18123806
+
 # Salpida Foundation — Canonical Repository
 
 This repository serves as the **canonical index and public entry point**
