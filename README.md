@@ -1,3 +1,6 @@
+> Canonical authority resides exclusively in DOI-registered records.  
+> This repository functions solely as an index and public access gateway.
+
 Official Canonical Declaration:
 https://salpida.foundation/declaration
 
