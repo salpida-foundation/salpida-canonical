@@ -49,6 +49,10 @@ GitHub is used solely as:
 All legal, academic, technical, and civilizational authority
 derives **only** from the DOI-registered records listed below.
 
+This repository is intentionally minimal.
+All authoritative content is preserved in DOI-registered records.
+
+
 ---
 
 ## Canonical Links (Authoritative Records)
