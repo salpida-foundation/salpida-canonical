@@ -106,6 +106,8 @@ for the Salpida Foundation and SICS.
 - **OSF Project (P) — Working / Display Instance**  
   https://osf.io/3npx5
 
+---
+
 ### CAIS Core Architecture (Zenodo — Canonical)
 
 CAIS Architecture v1.0 — Technical Brief  
