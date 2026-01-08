@@ -4,7 +4,7 @@ message: >
   you MUST cite the DOI-registered canonical records listed below.
   GitHub functions strictly as an index and navigational layer.
 title: "Salpida Foundation — Canonical Repository (salpida-canonical)"
-type: software
+type: other
 authors:
   - family-names: "Lee"
     given-names: "Jinho"
@@ -32,6 +32,9 @@ preferred-citation:
       affiliation: "Salpida Foundation / Salpida Institute of Consciousness Science (SICS)"
   doi: "10.5281/zenodo.18052619"
   url: "https://doi.org/10.5281/zenodo.18052619"
+  note: >
+    All authority is fixed via DOI-registered canonical documents.
+    This GitHub repository is non-authoritative and referential only.
 
 references:
   - type: report
