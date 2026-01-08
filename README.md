@@ -1,5 +1,14 @@
-> Canonical authority resides exclusively in DOI-registered records.  
-> This repository functions solely as an index and public access gateway.
+> ## Canonical Identity Declaration
+>
+> This repository is **not** a software project.
+>
+> This repository is a **canonical public archive** that fixes
+> constitutional, scientific, and governance authority
+> **exclusively via DOI-registered documents**.
+>
+> All authoritative meaning resides in the DOI records.
+> This repository **mirrors and indexes them only**.
+> No authority, interpretation, or governance is created here.
 
 Official Canonical Declaration:
 https://salpida.foundation/declaration
