@@ -106,6 +106,17 @@ for the Salpida Foundation and SICS.
 - **OSF Project (P) — Working / Display Instance**  
   https://osf.io/3npx5
 
+### CAIS Core Architecture (Zenodo — Canonical)
+
+CAIS Architecture v1.0 — Technical Brief  
+https://doi.org/10.5281/zenodo.18160387
+
+CAIS Prototype Roadmap v1.0 — Execution Order and Participation Guide  
+https://doi.org/10.5281/zenodo.18161872
+
+Aptamer–Sensor Interface Concept Note — Aptamer G-Iodine (Non-Therapeutic)  
+https://doi.org/10.5281/zenodo.18161302
+
 ---
 ## How to Cite
 
