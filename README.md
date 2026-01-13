@@ -66,67 +66,66 @@ All authoritative content is preserved in DOI-registered records.
 
 ## Canonical Links (Authoritative Records)
 
-The following records constitute the **canonical and non-derogable sources**
-for the Salpida Foundation and SICS.
+The following records constitute the **canonical** and non‑derogable sources for the Salpida Foundation and SICS.
 
 ### Core Canonical DOIs (Zenodo)
 
-- **CAIS-based Interpretation Definition v1.0**  
-  https://doi.org/10.5281/zenodo.18112372
+• **CAIS-based Interpretation Definition v1.0**  
+https://doi.org/10.5281/zenodo.18112372  
 
-- **CAIS Licensing & Usage Covenant v1.0**  
-  https://doi.org/10.5281/zenodo.18105043
+• **CAIS Licensing & Usage Covenant v1.0**  
+https://doi.org/10.5281/zenodo.18105043  
 
-- **CAIS Derivative System Rule v1.0**  
-  https://doi.org/10.5281/zenodo.18102512
+• **CAIS Derivative System Rule v1.0**  
+https://doi.org/10.5281/zenodo.18102512  
 
-- **Aptamer–Interaction Class Declaration (AICD v1.0)**  
-  https://doi.org/10.5281/zenodo.18102836
+• **Aptamer–Interaction Class Declaration (AICD v1.0)**  
+https://doi.org/10.5281/zenodo.18102836  
 
-- **Consciousness Civilization Framework (CCF) — Canonical Definition & Index v1.0**  
-  https://doi.org/10.5281/zenodo.18052619
+• **Consciousness Civilization Framework (CCF) — Canonical Definition & Index v1.0**  
+https://doi.org/10.5281/zenodo.18052619  
 
 ---
 
 ### OSF Canonical Registrations
 
-- **CCF Canonical Project — OSF Registration (R)**  
-  https://doi.org/10.17605/OSF.IO/2HGMU
+• **CCF Canonical Project — OSF Registration (R)**  
+https://doi.org/10.17605/OSF.IO/2HGMU  
 
-- **CCF Canonical Project — OSF Landing Page**  
-  https://osf.io/2hgmu
+• **CCF Canonical Project — OSF Landing Page**  
+https://osf.io/2hgmu  
 
 ---
 
 ### Children’s Constitution of the Consciousness Civilization (CCC v1.0)
 
-- **OSF Registration (R) — Canonical URL**  
-  https://osf.io/pk5yb
+• **OSF Registration (R) — Canonical URL**  
+https://osf.io/pk5yb  
 
-- **OSF Project (P) — Working / Display Instance**  
-  https://osf.io/3npx5
+• **OSF Project (P) — Working / Display Instance**  
+https://osf.io/3npx5  
 
 ---
 
 ### CAIS Core Architecture (Zenodo — Canonical)
 
-CAIS Architecture v1.0 — Technical Brief  
-https://doi.org/10.5281/zenodo.18160387
+• **CAIS Architecture v1.0 — Technical Brief**  
+https://doi.org/10.5281/zenodo.18160387  
 
-CAIS Prototype Roadmap v1.0 — Execution Order and Participation Guide  
-https://doi.org/10.5281/zenodo.18161872
+• **CAIS Prototype Roadmap v1.0 — Execution Order and Participation Guide**  
+https://doi.org/10.5281/zenodo.18161872  
 
-Aptamer–Sensor Interface Concept Note — Aptamer G-Iodine (Non-Therapeutic)  
-https://doi.org/10.5281/zenodo.18161302
+• **Aptamer–Sensor Interface Concept Note — Aptamer G‑Iodine (Non‑Therapeutic)**  
+https://doi.org/10.5281/zenodo.18161302  
 
 ---
-## How to Cite
 
-When citing this repository or any material indexed herein, always cite the canonical DOI record, not the GitHub repository itself.
+### How to Cite
 
-Primary citation (all versions):
-Salpida Foundation — Canonical Repository. Zenodo Concept DOI.
+When citing this repository or any material indexed herein, always cite the canonical DOI record, not the GitHub repository itself.  
+Primary citation (all versions): **Salpida Foundation — Canonical Repository.** Zenodo Concept DOI.  
 https://doi.org/10.5281/zenodo.18123806
+
 
 For version-specific reference, cite the corresponding Zenodo version DOI as listed in the Releases section.
 ---
