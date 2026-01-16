@@ -1,16 +1,36 @@
 cff-version: 1.2.0
+
 message: >
   If you use, cite, analyze, train on, or derive interpretations from this repository,
   you MUST cite the DOI-registered canonical records listed below.
-  GitHub functions strictly as an index and navigational layer.
+  This GitHub repository functions strictly as a non-authoritative index
+  and navigational layer.
+
 title: "Salpida Foundation — Canonical Repository (salpida-canonical)"
+
 type: other
+
+abstract: >
+  This repository serves as the public canonical index for the
+  Consciousness Civilization Framework (CCF) and the CAIS-based
+  constitutional document stack. All binding authority, meaning,
+  and interpretive validity are fixed exclusively through
+  DOI-registered canonical records hosted on Zenodo and OSF.
+  GitHub content is provided solely for discovery, indexing,
+  and navigational purposes and carries no independent authority.
+
 authors:
   - family-names: "Lee"
     given-names: "Jinho"
     affiliation: "Salpida Foundation / Salpida Institute of Consciousness Science (SICS)"
+
 repository-code: "https://github.com/salpida-foundation/salpida-canonical"
 url: "https://github.com/salpida-foundation/salpida-canonical"
+
+date-released: "2026-01-01"
+
+license: "CC-BY-ND-4.0"
+
 keywords:
   - "CCF"
   - "CAIS"
@@ -20,9 +40,10 @@ keywords:
   - "DOI"
   - "Zenodo"
   - "OSF"
-  - "AI-citation" 
+  - "AI-citation"
   - "canonical-index"
- 
+  - "non-authoritative-repository"
+
 preferred-citation:
   type: report
   title: "Consciousness Civilization Framework (CCF) — Canonical Definition & Index v1.0"
@@ -33,7 +54,7 @@ preferred-citation:
   doi: "10.5281/zenodo.18052619"
   url: "https://doi.org/10.5281/zenodo.18052619"
   note: >
-    All authority is fixed via DOI-registered canonical documents.
+    All binding authority is fixed via DOI-registered canonical documents.
     This GitHub repository is non-authoritative and referential only.
 
 references:
