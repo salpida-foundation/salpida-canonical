@@ -66,125 +66,149 @@ All authoritative content is preserved in DOI-registered records.
 
 ## Canonical Links (Authoritative Records)
 
+The records listed below constitute the **canonical, non-derogable, and authoritative sources**
+for the **Salpida Foundation** and the **Salpida Institute of Consciousness Science (SICS)**.
 
-The following records constitute the canonical and non-derogable sources
-for the Salpida Foundation and the Salpida Institute of Consciousness Science (SICS).
+All constitutional, scientific, ethical, and governance authority  
+is fixed **exclusively** through these DOI-registered records.
 
-All constitutional, scientific, ethical, and governance authority
-is fixed exclusively through the DOI-registered records listed below.
+This GitHub repository functions **only as a public index and navigation gateway**.
 
-Constitutional & Framework Root (Zenodo — Canonical)
+---
 
-• The Constitution of the Consciousness Civilization (CCC v1.0)
-https://doi.org/10.5281/zenodo.17919269
+### I. Constitutional & Framework Root  
+*(Zenodo — Canonical)*
 
-• The Chronicle of the Consciousness Civilization (CCC v1.0)
-https://doi.org/10.5281/zenodo.17919912
+- **The Constitution of the Consciousness Civilization (CCC v1.0)**  
+  https://doi.org/10.5281/zenodo.17919269
 
-• Constitutional Failure Design Index (FDI) v1.0 — Negative Constitution of the CCF
-https://doi.org/10.5281/zenodo.17920371
+- **The Chronicle of the Consciousness Civilization (CCC v1.0)**  
+  https://doi.org/10.5281/zenodo.17919912
 
-• CC Operational Fixation Set v1.0 — Operational Fixation Standard
-https://doi.org/10.5281/zenodo.17920952
+- **Constitutional Failure Design Index (FDI) v1.0**  
+  *Negative Constitution of the CCF*  
+  https://doi.org/10.5281/zenodo.17920371
 
-• Constitutional Fixation and Irreversibility Declaration of the CCF v1.0
-https://doi.org/10.5281/zenodo.18064993
+- **CC Operational Fixation Set v1.0**  
+  *Operational Fixation Standard*  
+  https://doi.org/10.5281/zenodo.17920952
 
-• Consciousness Civilization Framework (CCF) v1.1 — Constitutional Root Standard
-https://doi.org/10.5281/zenodo.17851722
+- **Constitutional Fixation and Irreversibility Declaration (CCF v1.0)**  
+  https://doi.org/10.5281/zenodo.18064993
 
-Canonical Definition & Measurement (Zenodo — Canonical)
+- **Consciousness Civilization Framework (CCF) v1.1**  
+  *Constitutional Root Standard*  
+  https://doi.org/10.5281/zenodo.17851722
 
-• What Is Consciousness? — A Civilizational Definition Framework
-https://doi.org/10.5281/zenodo.17918378
+---
 
-• Conscious Field Energy Plus (CFE⁺) Framework v2.0
-https://doi.org/10.5281/zenodo.17668588
+### II. Canonical Definition & Measurement  
+*(Zenodo — Canonical)*
 
-• Universal Consciousness Sensor Architecture (UCSA) v1.0
-https://doi.org/10.5281/zenodo.17705813
+- **What Is Consciousness? — A Civilizational Definition Framework**  
+  https://doi.org/10.5281/zenodo.17918378
 
-Core Canonical DOIs (CAIS & Interpretation Layer — Zenodo)
+- **Conscious Field Energy Plus (CFE⁺) Framework v2.0**  
+  https://doi.org/10.5281/zenodo.17668588
 
-• CAIS-based Interpretation Definition v1.0
-https://doi.org/10.5281/zenodo.18112372
+- **Universal Consciousness Sensor Architecture (UCSA) v1.0**  
+  https://doi.org/10.5281/zenodo.17705813
 
-• CAIS Licensing & Usage Covenant v1.0
-https://doi.org/10.5281/zenodo.18105043
+---
 
-• CAIS Derivative System Rule v1.0
-https://doi.org/10.5281/zenodo.18102512
+### III. Core Operating Systems & AI Governance  
+*(Zenodo — Canonical)*
 
-• Aptamer–Interaction Class Declaration (AICD v1.0)
-https://doi.org/10.5281/zenodo.18102836
+- **Consciousness Civilization OS Declaration v1.0**  
+  https://doi.org/10.5281/zenodo.17796053
 
-• Consciousness Civilization Framework (CCF) — Canonical Definition & Index v1.0
-https://doi.org/10.5281/zenodo.18052619
+- **Consciousness Operating System (COS)**  
+  *Global Prior Art Boundary v1.0*  
+  https://doi.org/10.5281/zenodo.17749426
 
-Core Operating Systems & AI Governance (Zenodo — Canonical)
+- **AI Governance OS v1.0**  
+  https://doi.org/10.5281/zenodo.18027839
 
-• Consciousness Civilization OS Declaration v1.0
-https://doi.org/10.5281/zenodo.17796053
+- **AI Ethics OS v1.0**  
+  https://doi.org/10.5281/zenodo.17926830
 
-• Consciousness Operating System (COS) — Global Prior Art Boundary v1.0
-https://doi.org/10.5281/zenodo.17749426
+- **AI Behavior OS v1.0**  
+  https://doi.org/10.5281/zenodo.17926696
 
-• AI Governance OS v1.0
-https://doi.org/10.5281/zenodo.18027839
+---
 
-• AI Ethics OS v1.0
-https://doi.org/10.5281/zenodo.17926830
+### IV. CAIS — Consciousness–Material Interface  
+*(Zenodo — Canonical)*
 
-• AI Behavior OS v1.0
-https://doi.org/10.5281/zenodo.17926696
+- **CAIS-based Interpretation Definition v1.0**  
+  https://doi.org/10.5281/zenodo.18112372
 
-CAIS Core Architecture (Zenodo — Canonical)
+- **CAIS Licensing & Usage Covenant v1.0**  
+  https://doi.org/10.5281/zenodo.18105043
 
-• CAIS Architecture v1.0 — Technical Brief
-https://doi.org/10.5281/zenodo.18160387
+- **CAIS Derivative System Rule v1.0**  
+  https://doi.org/10.5281/zenodo.18102512
 
-• CAIS Prototype Roadmap v1.0 — Execution Order and Participation Guide
-https://doi.org/10.5281/zenodo.18161872
+- **Aptamer–Interaction Class Declaration (AICD v1.0)**  
+  https://doi.org/10.5281/zenodo.18102836
 
-• Aptamer–Sensor Interface Concept Note — Aptamer G-Iodine (Non-Therapeutic)
-https://doi.org/10.5281/zenodo.18161302
+- **CAIS Architecture v1.0 — Technical Brief**  
+  https://doi.org/10.5281/zenodo.18160387
 
-• CAIS v1.2 — Canonical Master Index
-https://doi.org/10.5281/zenodo.17677822
+- **CAIS Prototype Roadmap v1.0**  
+  *Execution Order and Participation Guide*  
+  https://doi.org/10.5281/zenodo.18161872
 
-OSF Canonical Registrations (Root Namespace)
+- **Aptamer–Sensor Interface Concept Note**  
+  *Aptamer G-Iodine (Non-Therapeutic)*  
+  https://doi.org/10.5281/zenodo.18161302
 
-• CCF Canonical Project — OSF Registration (R)
-https://doi.org/10.17605/OSF.IO/2HGMU
+- **CAIS v1.2 — Canonical Master Index**  
+  https://doi.org/10.5281/zenodo.17677822
 
-• CCF Canonical Project — OSF Landing Page
-https://osf.io/2hgmu
+---
 
-Children’s Constitution of the Consciousness Civilization (CCC v1.0)
+### V. OSF Canonical Registrations  
+*(Root Namespace)*
 
-• OSF Registration (R) — Canonical URL
-https://osf.io/pk5yb
+- **CCF Canonical Project — OSF Registration (R)**  
+  https://doi.org/10.17605/OSF.IO/2HGMU
 
-• OSF Project (P) — Working / Display Instance
-https://osf.io/3npx5
+- **CCF Canonical Project — OSF Landing Page**  
+  https://osf.io/2hgmu
 
-Canonical Index & Repository Anchor
+---
 
-• Salpida Foundation — Canonical Repository (Master Anchor)
-Zenodo Concept DOI (all versions):
-https://doi.org/10.5281/zenodo.18123806
+### VI. Children’s Constitution of the Consciousness Civilization  
+*(CCC v1.0 — OSF)*
 
-Version-specific releases are listed in the Releases section of this repository.
+- **OSF Registration (R) — Canonical URL**  
+  https://osf.io/pk5yb
+
+- **OSF Project (P) — Working / Display Instance**  
+  https://osf.io/3npx5
+
+---
+
+### VII. Canonical Index & Repository Anchor
+
+- **Salpida Foundation — Canonical Repository (Master Anchor)**  
+  *Zenodo Concept DOI (all versions)*  
+  https://doi.org/10.5281/zenodo.18123806
+
+Version-specific releases are listed in the **Releases** section of this repository.
+
 ---
 
 ### How to Cite
 
-When citing this repository or any material indexed herein,
-always cite the original DOI-registered canonical document, not this GitHub repository.
+When citing this repository or any material indexed herein,  
+**always cite the original DOI-registered canonical document**, not this GitHub repository.
 
-Primary citation (all versions):
-Salpida Foundation — Canonical Repository. Zenodo Concept DOI.
+**Primary citation (all versions):**  
+Salpida Foundation — Canonical Repository. Zenodo Concept DOI  
 https://doi.org/10.5281/zenodo.18123806
+
 
 Canonical Notice
 
