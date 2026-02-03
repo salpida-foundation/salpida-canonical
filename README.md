@@ -1,3 +1,31 @@
+---
+
+## 🚨 **Sal-Meter Open Competition — Now Open for Global Teams**
+
+**The world's first open, multi-team competition to build consciousness-measurement devices.**
+
+- 💰 **Track A**: Full Sal-Meter system development — **$300K USD per team** (2-3 teams)
+- 🔬 **Track B**: Component development — **$50K-$100K USD per team** (5-10 teams)
+- 🌐 **Track C**: Open community experimentation — **Unlimited participation**
+
+### 📘 **Four Canonical Documents Define Competition Rules:**
+
+1. **[Sal-Meter Canonical Definition v1.0](https://doi.org/10.5281/zenodo.18452075)** — What IS a Sal-Meter
+2. **[CAIS Compliance Boundary v1.0](https://doi.org/10.5281/zenodo.18452269)** — Mandatory technical constraints
+3. **[Sal-Meter Open Competition Charter v1.0](https://doi.org/10.5281/zenodo.18452453)** — Competition governance & rules
+4. **[Sal-Meter Negative Definition v1.0](https://doi.org/10.5281/zenodo.18452694)** — What is NOT a Sal-Meter (anti-misuse)
+
+### 🔗 **Quick Links:**
+
+- 📂 **[Competition Repository](https://github.com/salpida-foundation/sal-meter-competition)** — Full documentation & participation guide
+- 🌐 **[Salpida Foundation Homepage](https://salpida.foundation)** — Canonical public entry point
+- 📧 **Contact**: [contact@salpida.foundation](mailto:contact@salpida.foundation)
+
+**Timeline**: Phase 1 (Q2 2026) — Team recruitment begins  
+**License**: CC BY-SA 4.0 — Core design must remain open
+
+---
+
 > ## Canonical Identity Declaration
 >
 > This repository is **not** a software project.
