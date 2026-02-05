@@ -20,8 +20,9 @@ abstract: >
   and navigational purposes and carries no independent authority.
 
 authors:
-  - family-names: "Lee"
-    given-names: "Jinho"
+  - family-names: Lee
+    given-names: Jinho
+    orcid: https://orcid.org/0009-0005-3809-4588
     affiliation: "Salpida Foundation / Salpida Institute of Consciousness Science (SICS)"
 
 repository-code: "https://github.com/salpida-foundation/salpida-canonical"
