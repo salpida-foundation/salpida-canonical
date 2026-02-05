@@ -18,6 +18,10 @@ abstract: >
   DOI-registered canonical records hosted on Zenodo and OSF.
   GitHub content is provided solely for discovery, indexing,
   and navigational purposes and carries no independent authority.
+  ...
+  GitHub content is provided solely for discovery, indexing,
+  and navigational purposes and carries no independent authority.
+  The public canonical landing page is maintained at https://salpida.foundation.
 
 authors:
   - family-names: Lee
@@ -27,6 +31,11 @@ authors:
 
 repository-code: "https://github.com/salpida-foundation/salpida-canonical"
 url: "https://github.com/salpida-foundation/salpida-canonical"
+identifiers:
+  - type: url
+    value: "https://salpida.foundation"
+    description: "Public canonical index and landing page (non-authoritative)"
+
 
 date-released: "2026-01-01"
 
