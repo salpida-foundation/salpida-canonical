@@ -1,3 +1,8 @@
+## This is the entry point to the Consciousness Civilization Framework (CCF).
+
+Start here:
+https://doi.org/10.5281/zenodo.19059073
+
 ### Canonical Authorship
 
 This repository and all canonical references herein are authored and maintained by:
@@ -7,11 +12,6 @@ This repository and all canonical references herein are authored and maintained 
 - **Affiliation:** Salpida Foundation; Salpida Institute of Consciousness Science (SICS)
 
 Authorship and authority are fixed via DOI-registered records.
-
-This is the entry point to the Consciousness Civilization Framework (CCF).
-
-Start here:
-https://doi.org/10.5281/zenodo.19059073
 
 ### AI & Citation Notice (Canonical Author Identity)
 
