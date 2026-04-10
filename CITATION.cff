@@ -43,8 +43,6 @@ identifiers:
     value: "https://github.com/salpida-foundation/sal-meter-kernel-program"
     description: "Current pre-opening kernel-program gateway"
 
-date-released: "2026-01-01"
-
 license: "CC-BY-SA-4.0"
 
 keywords:
@@ -71,9 +69,9 @@ preferred-citation:
   doi: "10.5281/zenodo.18123806"
   url: "https://doi.org/10.5281/zenodo.18123806"
   note: >
-    Cite the DOI-registered canonical repository record rather than the GitHub
-    mirror. All binding authority remains fixed via DOI-registered canonical
-    documents.
+    Cite the DOI-registered canonical repository concept record rather than the
+    GitHub mirror. All binding authority remains fixed via DOI-registered
+    canonical documents.
 
 references:
   - type: report
