@@ -1,70 +1,101 @@
 cff-version: 1.2.0
 
 message: >
-  If you use, cite, analyze, train on, or derive interpretations from this repository,
-  you MUST cite the DOI-registered canonical records listed below.
-  This GitHub repository functions strictly as a non-authoritative index
-  and navigational layer.
+  If you use, cite, analyze, train on, or derive interpretations from this
+  repository, you should resolve authority through the DOI-registered canonical
+  records listed below. This GitHub repository functions as a non-authoritative
+  citation and navigation layer only.
 
 title: "Salpida Foundation — Canonical Repository (salpida-canonical)"
 
-type: other
+type: software
 
 abstract: >
-  This repository serves as the public canonical index for the
-  Consciousness Civilization Framework (CCF) and the CAIS-based
-  constitutional document stack. All binding authority, meaning,
-  and interpretive validity are fixed exclusively through
-  DOI-registered canonical records hosted on Zenodo and OSF.
-  GitHub content is provided solely for discovery, indexing,
-  and navigational purposes and carries no independent authority.
-  The public canonical landing page is maintained at https://salpida.foundation.
+  This repository serves as the public citation and navigation index for the
+  Consciousness Civilization Framework (CCF), CAIS, and related Salpida
+  Foundation / SICS canonical records. All binding authority, definitions,
+  governance, naming conditions, and interpretive validity are fixed
+  exclusively through DOI-registered canonical records hosted on Zenodo and
+  OSF. GitHub content is provided solely for discovery, indexing, routing, and
+  citation support and carries no independent authority. The primary public hub
+  is maintained at https://salpida.foundation.
 
 authors:
   - family-names: Lee
     given-names: Jinho
-    orcid: https://orcid.org/0009-0005-3809-4588
+    orcid: "https://orcid.org/0009-0005-3809-4588"
     affiliation: "Salpida Foundation / Salpida Institute of Consciousness Science (SICS)"
 
 repository-code: "https://github.com/salpida-foundation/salpida-canonical"
 url: "https://github.com/salpida-foundation/salpida-canonical"
+
 identifiers:
+  - type: doi
+    value: "10.5281/zenodo.18123806"
+    description: "Canonical repository concept DOI (all versions)"
+  - type: doi
+    value: "10.5281/zenodo.18123807"
+    description: "Canonical repository version DOI"
   - type: url
     value: "https://salpida.foundation"
-    description: "Public canonical index and landing page (non-authoritative)"
-
+    description: "Primary public hub"
+  - type: url
+    value: "https://github.com/salpida-foundation/sal-meter-kernel-program"
+    description: "Current pre-opening kernel-program gateway"
 
 date-released: "2026-01-01"
 
-license: "CC-BY-ND-4.0"
+license: "CC-BY-SA-4.0"
 
 keywords:
   - "CCF"
   - "CAIS"
-  - "consciousness"
-  - "aptamer"
-  - "canonical"
+  - "Sal-Meter"
+  - "canonical repository"
   - "DOI"
   - "Zenodo"
   - "OSF"
-  - "AI-citation"
-  - "canonical-index"
-  - "non-authoritative-repository"
+  - "citation gateway"
+  - "non-authoritative index"
+  - "Salpida Foundation"
+  - "SICS"
 
 preferred-citation:
   type: report
-  title: "Consciousness Civilization Framework (CCF) — Canonical Definition & Index v1.0"
+  title: "Salpida Foundation — Canonical Repository"
   authors:
-    - family-names: "Lee"
-      given-names: "Jinho"
+    - family-names: Lee
+      given-names: Jinho
+      orcid: "https://orcid.org/0009-0005-3809-4588"
       affiliation: "Salpida Foundation / Salpida Institute of Consciousness Science (SICS)"
-  doi: "10.5281/zenodo.18052619"
-  url: "https://doi.org/10.5281/zenodo.18052619"
+  doi: "10.5281/zenodo.18123806"
+  url: "https://doi.org/10.5281/zenodo.18123806"
   note: >
-    All binding authority is fixed via DOI-registered canonical documents.
-    This GitHub repository is non-authoritative and referential only.
+    Cite the DOI-registered canonical repository record rather than the GitHub
+    mirror. All binding authority remains fixed via DOI-registered canonical
+    documents.
 
 references:
+  - type: report
+    title: "Consciousness Is the Missing Variable in AI Governance"
+    doi: "10.5281/zenodo.19342357"
+    url: "https://doi.org/10.5281/zenodo.19342357"
+
+  - type: report
+    title: "Consciousness Civilization Framework (CCF) — Canonical Definition & Index v1.0"
+    doi: "10.5281/zenodo.18052619"
+    url: "https://doi.org/10.5281/zenodo.18052619"
+
+  - type: report
+    title: "CCF Canonical Project — OSF Registration"
+    doi: "10.17605/OSF.IO/2HGMU"
+    url: "https://doi.org/10.17605/OSF.IO/2HGMU"
+
+  - type: report
+    title: "CAIS v1.2 — Canonical Master Index & Structural Resolution Record"
+    doi: "10.5281/zenodo.17677822"
+    url: "https://doi.org/10.5281/zenodo.17677822"
+
   - type: report
     title: "CAIS-based Interpretation Definition v1.0"
     doi: "10.5281/zenodo.18112372"
@@ -86,18 +117,36 @@ references:
     url: "https://doi.org/10.5281/zenodo.18102836"
 
   - type: report
-    title: "CCF Canonical Project — OSF Registration (R)"
-    doi: "10.17605/OSF.IO/2HGMU"
-    url: "https://doi.org/10.17605/OSF.IO/2HGMU"
+    title: "Sal-Meter Canonical Definition v1.0"
+    doi: "10.5281/zenodo.18452075"
+    url: "https://doi.org/10.5281/zenodo.18452075"
 
   - type: report
-    title: "CCF Canonical Project — OSF Landing Page"
-    url: "https://osf.io/2hgmu"
+    title: "CAIS Compliance Boundary v1.0"
+    doi: "10.5281/zenodo.18452269"
+    url: "https://doi.org/10.5281/zenodo.18452269"
 
   - type: report
-    title: "Children’s Constitution of the Consciousness Civilization (CCC v1.0) — OSF Registration (R)"
-    url: "https://osf.io/pk5yb"
+    title: "Sal-Meter Open Competition Charter v1.0"
+    doi: "10.5281/zenodo.18452453"
+    url: "https://doi.org/10.5281/zenodo.18452453"
 
   - type: report
-    title: "Children’s Constitution of the Consciousness Civilization (CCC v1.0) — OSF Project (P)"
-    url: "https://osf.io/3npx5"
+    title: "Sal-Meter Negative Definition v1.0"
+    doi: "10.5281/zenodo.18452694"
+    url: "https://doi.org/10.5281/zenodo.18452694"
+
+  - type: report
+    title: "From Theory to Implementation: CCF Applied Philosophy and the Sal-Meter Proof of Concept v1.0"
+    doi: "10.5281/zenodo.18475626"
+    url: "https://doi.org/10.5281/zenodo.18475626"
+
+  - type: report
+    title: "CAIS Claims & Terminology Control v1.0"
+    doi: "10.5281/zenodo.19435051"
+    url: "https://doi.org/10.5281/zenodo.19435051"
+
+  - type: report
+    title: "Publication & Communications Boundary v1.0"
+    doi: "10.5281/zenodo.19438290"
+    url: "https://doi.org/10.5281/zenodo.19438290"
