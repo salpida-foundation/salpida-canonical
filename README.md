@@ -8,17 +8,25 @@
 
 ## At a Glance
 
+> **Current Sal-Meter / CAIS status note**  
+> The current Sal-Meter / CAIS program is **kernel-first · pre-opening · research-stage**.  
+> For current program participation, read **Status first**.  
+> This repository remains a canonical DOI routing index, not the active technical collaboration surface.
+
 ### What this repository is
+
 - a **public GitHub index** for canonical DOI records
 - a **routing layer** to the foundation site and DOI-registered documents
 - a **lineage / citation / authority map**
 - a place to understand **where canonical authority actually lives**
 
 ### What this repository is not
+
 - not the source of final interpretive authority
 - not the main technical collaboration surface
 - not the active kernel-program gateway
 - not a public build race or implementation hub
+- not a recruitment surface
 - not a substitute for Zenodo / OSF canonical records
 
 ---
@@ -26,47 +34,108 @@
 ## Primary Entry Routes
 
 ### Public hub
+
 - **Salpida Foundation**  
   [https://salpida.foundation](https://salpida.foundation)
 
 ### Canonical DOI entry
-- **Concept DOI (all versions)**  
+
+- **Concept DOI — all versions**  
   [https://doi.org/10.5281/zenodo.18123806](https://doi.org/10.5281/zenodo.18123806)
 
-- **Version DOI (current frozen snapshot)**  
+- **Version DOI — current frozen snapshot**  
   [https://doi.org/10.5281/zenodo.18123807](https://doi.org/10.5281/zenodo.18123807)
 
-### Technical program gateway
-If you are a **PI, engineer, builder, laboratory, or technical watcher** following the present Sal-Meter kernel-stage program, start here instead:
+### Current Sal-Meter / CAIS route
+
+If you are a **PI, engineer, builder, laboratory, candidate, or technical watcher** following the present Sal-Meter / CAIS kernel-stage program, do **not** start from GitHub alone.
+
+Read the current program status first:
+
+- **Status**  
+  [https://salpida.foundation/status/](https://salpida.foundation/status/)
+
+- **For PIs and Laboratories**  
+  [https://salpida.foundation/for-pis/](https://salpida.foundation/for-pis/)
+
+- **Sal-Meter Topic**  
+  [https://salpida.foundation/topics/sal-meter/](https://salpida.foundation/topics/sal-meter/)
 
 - **Sal-Meter Kernel Program GitHub**  
   [https://github.com/salpida-foundation/sal-meter-kernel-program](https://github.com/salpida-foundation/sal-meter-kernel-program)
+
+This route is **Status-first**.  
+GitHub is the technical gateway, not the canonical authority layer.
 
 ---
 
 ## Read This Repository According to Your Purpose
 
 ### If you want the public reading surface
+
 Start with:
+
 - [salpida.foundation](https://salpida.foundation)
 
 ### If you want canonical authority, citation, and fixed public record lineage
+
 Start with:
+
 - the **Concept DOI**
 - the **Version DOI**
 - the DOI-linked records on **Zenodo / OSF**
 
-### If you want the active technical / program-facing gateway
+### If you want the current technical / program-facing gateway
+
 Start with:
+
+- [Status](https://salpida.foundation/status/)
+- [For PIs](https://salpida.foundation/for-pis/)
 - [`sal-meter-kernel-program`](https://github.com/salpida-foundation/sal-meter-kernel-program)
 
 ---
 
 ## One-Sentence Role Separation
 
-- **`salpida-canonical`** = public GitHub index for canonical DOI authority  
-- **`sal-meter-kernel-program`** = public technical gateway for the present kernel-stage program  
+- **`salpida-canonical`** = public GitHub index for canonical DOI authority
+- **`sal-meter-kernel-program`** = public technical gateway for the present kernel-stage program
+- **`Status`** = current public state, open routes, and not-open-yet boundary
 - **Zenodo / OSF DOI records** = final canonical authority
+
+---
+
+## Current Sal-Meter / CAIS Boundary
+
+The current Sal-Meter / CAIS program should be described as:
+
+- kernel-first
+- pre-opening
+- research-stage
+- non-clinical
+- non-diagnostic
+- non-therapeutic
+- pre-device
+- pre-certification
+
+The current public technical route includes:
+
+- External Layer-0 feasibility inquiry
+- I₃⁻ / Aptamer G-Iodine development inquiry
+- ESL / EStL recruitment
+- internal lab readiness
+- proxy benchmark preparation as support track only
+
+The following should **not** be stated or implied:
+
+- live public competition
+- validated Sal-Meter
+- certified Sal-Meter
+- CAIS-compliant device
+- clinical use
+- diagnostic use
+- therapeutic platform
+- commercial device
+- proxy stack as Sal-Meter
 
 ---
 
@@ -75,17 +144,20 @@ Start with:
 This repository points outward to canonical document families such as:
 
 ### 1. CCF root architecture
+
 - Consciousness Civilization Framework (CCF)
-- Constitutional root and authority records
+- constitutional root and authority records
 - canonical civilizational standards
 
 ### 2. CAIS core architecture
+
 - CAIS core standard
 - CAIS architecture
 - signal processing / hardware / prototype standards
 - compliance and terminology controls
 
 ### 3. Sal-Meter core layer
+
 - canonical definition
 - negative definition
 - compliance boundary
@@ -93,12 +165,14 @@ This repository points outward to canonical document families such as:
 - PI readiness and Phase 0 program-direction records
 
 ### 4. Governance and publication boundary layer
+
 - claims & terminology control
 - certification / mark usage policy
 - publication & communications boundary
 - conformance architecture
 
 ### 5. Entry / bridge / public-reading layer
+
 - AI governance entry paper
 - AI 2027 response essay
 - third-party evaluation paper
@@ -142,6 +216,7 @@ This repository is useful if you want to:
 - route from GitHub to the foundation site
 - trace document lineage across CCF / CAIS / Sal-Meter stacks
 - avoid authority confusion between public helper text and fixed records
+- confirm that the current Sal-Meter / CAIS route is **Status-first**
 
 ---
 
@@ -150,8 +225,14 @@ This repository is useful if you want to:
 A simple rule:
 
 - **general reader** → start at [salpida.foundation](https://salpida.foundation)
-- **PI / engineer / lab** → start at [`sal-meter-kernel-program`](https://github.com/salpida-foundation/sal-meter-kernel-program)
+- **PI / engineer / lab / candidate** → start at [Status](https://salpida.foundation/status/), then [For PIs](https://salpida.foundation/for-pis/), then [`sal-meter-kernel-program`](https://github.com/salpida-foundation/sal-meter-kernel-program)
 - **citation / canonical authority / document lineage** → start at the DOI entry above
+
+Do not confuse the active technical gateway with canonical authority.
+
+- `salpida-canonical` routes readers to DOI authority.
+- `sal-meter-kernel-program` routes technical readers into the current kernel-stage execution surface.
+- `Status` defines what is open now and what is not open now.
 
 ---
 
@@ -166,6 +247,9 @@ Salpida Foundation / Salpida Institute of Consciousness Science (SICS)
 **Public hub:**  
 [https://salpida.foundation](https://salpida.foundation)
 
+**Current program status:**  
+[https://salpida.foundation/status/](https://salpida.foundation/status/)
+
 **Technical gateway:**  
 [https://github.com/salpida-foundation/sal-meter-kernel-program](https://github.com/salpida-foundation/sal-meter-kernel-program)
 
@@ -178,5 +262,6 @@ This repository does not ask to be believed.
 It asks to be routed correctly.
 
 Read on the foundation site.  
+Check current status first.  
 Build through the kernel gateway.  
 Cite the DOI record.
