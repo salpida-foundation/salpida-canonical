@@ -67,6 +67,13 @@ Read the current program status first:
 This route is **Status-first**.  
 GitHub is the technical gateway, not the canonical authority layer.
 
+### Sal-Meter Kernel Pre-SRA Helper Package v0.1.0
+
+- **GitHub helper release:** https://github.com/salpida-foundation/sal-meter-kernel-program/releases/tag/v0.1.0
+- This is a public helper release only.
+- It is not canonical authority.
+- It does not create Sal-Meter validation, CAIS compliance, certification, conformance recognition, clinical readiness, diagnostic use, therapeutic use, device readiness, commercial readiness, public SDK release, live public competition status, or mark-usage authorization.
+- It points readers to the Status page, the Sal-Meter Kernel technical gateway, and the DOI / OSF authority layer.
 ---
 
 ## Read This Repository According to Your Purpose
